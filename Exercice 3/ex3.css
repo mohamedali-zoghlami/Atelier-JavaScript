@@ -1,0 +1,9 @@
+.mat{ 
+    display: flex;
+    flex-direction: row;
+   
+}
+.met{
+    width:50%; 
+    display:inline-block;
+}
